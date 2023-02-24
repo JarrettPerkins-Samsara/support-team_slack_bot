@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 setup(
-    name='owl_facts',
+    name='lib',
     packages=find_packages(include=['owl_facts']),
     version='1.0',
     description='Random Owl fact provider',

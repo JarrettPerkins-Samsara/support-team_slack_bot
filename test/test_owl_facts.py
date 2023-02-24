@@ -1,2 +1,2 @@
-from owl_facts import randomOwlFact
+from lib import owl_facts
 
